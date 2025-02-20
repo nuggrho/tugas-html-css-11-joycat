@@ -66,7 +66,8 @@ h1 {
 }
 
 .services {
-  background-color: turquoise;
+  background-color: maroon;
+  color: white;
   height: 800px;
   width: 100%;
   padding: 80px;
