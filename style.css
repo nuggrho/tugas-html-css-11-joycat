@@ -64,3 +64,10 @@ h1 {
   color: navy;
   margin-bottom: 20px;
 }
+
+.services {
+  background-color: turquoise;
+  height: 800px;
+  width: 100%;
+  padding: 80px;
+}
