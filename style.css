@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+}
+
+:root {
+  --biru-brand: #2e5171;
+}
+
+body {
+  font-family: "Barlow", sans-serif;
+  background-color: #edf8f9;
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav {
+
+    background-color: white;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem ;
+    width: 100% ;
+    
+   img {
+           height: fit-content ;
+           width: 155px;
+   }
+    
+}
+
+.nav-links {
+    display: flex;
+    height: 100% ;
+    align-items: center;
+ 
+    ul{
+        display: flex;
+        flex-direction: row ;
+        gap: 30px ;
+        list-style-type: none;
+        color: var(--biru-brand);
+    }
+}
+
+nav{
+  
+}
